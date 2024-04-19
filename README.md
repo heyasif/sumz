@@ -24,8 +24,8 @@ The project is built using the following powerful technologies and tools:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Sayakdutt/Open-AI-Article-Summarizer.git
-cd Open-AI-Article-Summarizer
+git clone https://github.com/heyasif/sumz.git
+cd sumz
 ```
 
 2. Install dependencies:
